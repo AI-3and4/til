@@ -1,0 +1,42 @@
+Searching best hyperparameters for GradientBoostingRegressor
+Training GradientBoostingRegressor
+R2 Score: 65.25
+RMSE: 0.29
+NMAE: 0.4903
+Best Hyperparameters: {'n_estimators': 100, 'learning_rate': 0.02}
+
+Searching best hyperparameters for RandomForestRegressor
+Training RandomForestRegressor
+R2 Score: 76.30
+RMSE: 0.24
+NMAE: 0.2779
+Best Hyperparameters: {'n_estimators': 100, 'max_depth': 20}
+
+Searching best hyperparameters for LinearRegression
+Training LinearRegression
+R2 Score: 54.99
+RMSE: 0.33
+NMAE: 0.5657
+Best Hyperparameters: {}
+
+Searching best hyperparameters for DecisionTreeRegressor
+Training DecisionTreeRegressor
+R2 Score: 68.58
+RMSE: 0.28
+NMAE: 0.2084
+Best Hyperparameters: {'max_depth': 10}
+
+Searching best hyperparameters for XGBRegressor
+Training XGBRegressor
+R2 Score: 72.39
+RMSE: 0.26
+NMAE: 0.3991
+Best Hyperparameters: {'n_estimators': 100, 'learning_rate': 0.02}
+
+Searching best hyperparameters for LGBMRegressor
+Training LGBMRegressor
+R2 Score: 72.85
+RMSE: 0.26
+NMAE: 0.3952
+Best Hyperparameters: {'n_estimators': 100, 'learning_rate': 0.02}
+
